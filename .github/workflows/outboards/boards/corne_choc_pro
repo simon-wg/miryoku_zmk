@@ -1,4 +1,0 @@
-outboard_repository=Keebart/zmk-config
-outboard_ref=no-studio
-outboard_from=boards/arm/corne_choc_pro
-outboard_to=boards/arm/corne_choc_pro

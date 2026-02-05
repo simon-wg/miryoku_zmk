@@ -1,5 +1,4 @@
-
-name: 'Build Example corne_choc_pro'
+name: 'Build example corne_choc_pro'
 on: workflow_dispatch
 jobs:
   build:
@@ -7,3 +6,4 @@ jobs:
     secrets: inherit
     with:
       board: '["corne_choc_pro_left","corne_choc_pro_right"]'
+      shield: '["nice_view"]'
